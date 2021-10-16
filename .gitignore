@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.bsp/
+*.iml
+
+# Build
+target/
+
+# File system
+.DS_Store
+
+# JVM
+
+.jvmopts
